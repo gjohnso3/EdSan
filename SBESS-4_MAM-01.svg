@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.8.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1716.3 1637.8" style="enable-background:new 0 0 1716.3 1637.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'Calibri';}
+	.st1{font-size:29.2203px;}
+	.st2{fill:#FFFFFF;stroke:#000000;stroke-width:0.1358;stroke-miterlimit:1.3588;}
+	.st3{font-size:4.9032px;}
+	.st4{font-size:4.8609px;}
+</style>
+<g>
+	<text transform="matrix(1 0 0 1 1643.2146 1446.7666)" class="st0 st1">65A2</text>
+	<text transform="matrix(1 0 0 1 1643.2146 1612.5005)" class="st0 st1">65A1</text>
+	<text transform="matrix(1 0 0 1 1.1898 46.4639)" class="st0 st1">65B11</text>
+	<text transform="matrix(1 0 0 1 1.1898 213.0189)" class="st0 st1">65B10</text>
+	<text transform="matrix(1 0 0 1 15.9998 295.9836)" class="st0 st1">65B9</text>
+	<text transform="matrix(1 0 0 1 147.8094 464.2)" class="st0 st1">65B8</text>
+	<text transform="matrix(1 0 0 1 701.2985 46.4639)" class="st0 st1">65B7</text>
+	<text transform="matrix(1 0 0 1 701.2985 213.0189)" class="st0 st1">65B6</text>
+	<text transform="matrix(1 0 0 1 701.2985 296.2465)" class="st0 st1">65B5</text>
+	<text transform="matrix(1 0 0 1 701.2985 463.8101)" class="st0 st1">65B4</text>
+	<text transform="matrix(1 0 0 1 701.2985 547.0377)" class="st0 st1">65B3</text>
+	<text transform="matrix(1 0 0 1 701.2985 713.9462)" class="st0 st1">65B2</text>
+	<text transform="matrix(1 0 0 1 701.2985 797.1738)" class="st0 st1">65B1</text>
+	<text transform="matrix(1 0 0 1 939.3191 946.3454)" class="st0 st1">65A10</text>
+	<text transform="matrix(1 0 0 1 954.1292 1112.9003)" class="st0 st1">65A9</text>
+	<text transform="matrix(1 0 0 1 954.1292 1195.865)" class="st0 st1">65A8</text>
+	<text transform="matrix(1 0 0 1 954.1292 1363.5662)" class="st0 st1">65A7</text>
+	<text transform="matrix(1 0 0 1 1643.2146 946.3454)" class="st0 st1">65A6</text>
+	<text transform="matrix(1 0 0 1 1643.2146 1112.9003)" class="st0 st1">65A5</text>
+	<text transform="matrix(1 0 0 1 1643.2146 1195.865)" class="st0 st1">65A4</text>
+	<text transform="matrix(1 0 0 1 1643.2146 1363.8019)" class="st0 st1">65A3</text>
+</g>
+<rect id="SBESS-4_-_65B11.1_-_Battery_QC" x="99.8" y="8.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B11.1_-_Battery_Terms" x="141.3" y="8.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B11.1_-_Enclosure_Energization" x="182.7" y="8.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B11.2_-_Battery_QC" x="99.8" y="30.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B11.2_-_Battery_Terms" x="141.3" y="30.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B11.2_-_Enclosure_Energization" x="182.7" y="30.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B11.3_-_Battery_QC" x="235" y="8.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B11.3_-_Battery_Terms" x="276.3" y="8.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B11.3_-_Enclosure_Energization" x="317.9" y="8.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B11.4_-_Battery_QC" x="235" y="30.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B11.4_-_Battery_Terms" x="276.3" y="30.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B11.4_-_Enclosure_Energization" x="317.9" y="30.3" class="st2" width="41.4" height="22"/>
+<g>
+	<text transform="matrix(1 0 0 1 107.2674 41.2531)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 146.1302 41.2531)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 191.5209 39.7974)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 188.4789 45.2593)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 107.2674 20.6842)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 146.1302 20.6842)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 191.5209 19.2292)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 188.4789 24.6906)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 241.4169 41.2531)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 280.2797 41.2531)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 325.6703 39.7974)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 322.6283 45.2593)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 241.4169 20.6842)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 280.2797 20.6842)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 325.6703 19.2292)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 322.6283 24.6906)" class="st0 st3">ENERGIZATION</text>
+</g>
+<rect id="SBESS-4_-_65B10.1_-_Battery_QC" x="99.8" y="174.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B10.1_-_Battery_Terms" x="141.3" y="174.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B10.1_-_Enclosure_Energization" x="182.7" y="174.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B10.2_-_Battery_QC" x="99.8" y="196.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B10.2_-_Battery_Terms" x="141.3" y="196.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B10.2_-_Enclosure_Energization" x="182.7" y="196.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B10.3_-_Battery_QC" x="235" y="174.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B10.3_-_Battery_Terms" x="276.3" y="174.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B10.3_-_Enclosure_Energization" x="317.9" y="174.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B10.4_-_Battery_QC" x="235" y="196.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B10.4_-_Battery_Terms" x="276.3" y="196.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B10.4_-_Enclosure_Energization" x="317.9" y="196.8" class="st2" width="41.4" height="22"/>
+<g>
+	<text transform="matrix(1 0 0 1 107.2674 207.8081)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 146.1302 207.8081)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 191.5209 206.3524)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 188.4789 211.8143)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 107.2674 187.2391)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 146.1302 187.2391)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 191.5209 185.7841)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 188.4789 191.2456)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 241.4169 207.8081)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 280.2797 207.8081)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 325.6703 206.3524)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 322.6283 211.8143)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 241.4169 187.2391)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 280.2797 187.2391)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 325.6703 185.7841)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 322.6283 191.2456)" class="st0 st3">ENERGIZATION</text>
+</g>
+<rect id="SBESS-4_-_65B9.1_-_Battery_QC" x="99.8" y="257.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B9.1_-_Battery_Terms" x="141.3" y="257.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B9.1_-_Enclosure_Energization" x="182.7" y="257.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B9.2_-_Battery_QC" x="99.8" y="279.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B9.2_-_Battery_Terms" x="141.3" y="279.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B9.2_-_Enclosure_Energization" x="182.7" y="279.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B9.3_-_Battery_QC" x="235" y="257.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B9.3_-_Battery_Terms" x="276.3" y="257.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B9.3_-_Enclosure_Energization" x="317.9" y="257.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B9.4_-_Battery_QC" x="235" y="279.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B9.4_-_Battery_Terms" x="276.3" y="279.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B9.4_-_Enclosure_Energization" x="317.9" y="279.8" class="st2" width="41.4" height="22"/>
+<g>
+	<text transform="matrix(1 0 0 1 107.2674 290.7725)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 146.1302 290.7725)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 191.5209 289.317)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 188.4789 294.7788)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 107.2674 270.2036)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 146.1302 270.2036)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 191.5209 268.7486)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 188.4789 274.21)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 241.4169 290.7725)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 280.2797 290.7725)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 325.6703 289.317)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 322.6283 294.7788)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 241.4169 270.2036)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 280.2797 270.2036)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 325.6703 268.7486)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 322.6283 274.21)" class="st0 st3">ENERGIZATION</text>
+</g>
+<rect id="SBESS-4_-_65B8.1_-_Battery_QC" x="234.1" y="423.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B8.1_-_Battery_Terms" x="275.7" y="423.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B8.1_-_Enclosure_Energization" x="317" y="423.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B8.2_-_Battery_QC" x="234.1" y="445.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B8.2_-_Battery_Terms" x="275.7" y="445.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B8.2_-_Enclosure_Energization" x="317" y="445.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B8.3_-_Battery_QC" x="234.1" y="506.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B8.3_-_Battery_Terms" x="275.5" y="506.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B8.3_-_Enclosure_Energization" x="317" y="506.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B8.4_-_Battery_QC" x="234.1" y="528.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B8.4_-_Battery_Terms" x="275.5" y="528.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B8.4_-_Enclosure_Energization" x="317" y="528.5" class="st2" width="41.4" height="22"/>
+<g>
+	<text transform="matrix(1 0 0 1 241.6477 456.4818)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 280.5105 456.4818)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 325.9011 455.0263)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 322.8591 460.4882)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 241.6477 435.913)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 280.5105 435.913)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 325.9011 434.4579)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 322.8591 439.9193)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 240.5905 539.4798)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 279.4532 539.4798)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 324.8439 538.0243)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 321.8019 543.4862)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 240.5905 518.911)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 279.4532 518.911)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 324.8439 517.4559)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 321.8019 522.9173)" class="st0 st3">ENERGIZATION</text>
+</g>
+<rect id="SBESS-4_-_65B7.1_-_Battery_QC" x="552" y="30.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B7.1_-_Battery_Terms" x="593.6" y="30.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B7.1_-_Enclosure_Energization" x="634.9" y="30.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B7.2_-_Battery_QC" x="552" y="8.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B7.2_-_Battery_Terms" x="593.6" y="8.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B7.2_-_Enclosure_Energization" x="634.9" y="8.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B7.3_-_Battery_QC" x="416.8" y="30.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B7.3_-_Battery_Terms" x="458.2" y="30.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B7.3_-_Enclosure_Energization" x="499.7" y="30.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B7.4_-_Battery_QC" x="416.8" y="8.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B7.4_-_Battery_Terms" x="458.2" y="8.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B7.4_-_Enclosure_Energization" x="499.7" y="8.2" class="st2" width="41.4" height="22"/>
+<g>
+	<text transform="matrix(1 0 0 1 424.3251 41.2531)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 463.1879 41.2531)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 508.5785 39.7974)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 505.5365 45.2593)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 424.3251 20.6842)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 463.1879 20.6842)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 508.5785 19.2292)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 505.5365 24.6906)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 558.4745 41.2531)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 597.3373 41.2531)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 642.7279 39.7974)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 639.6859 45.2593)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 558.4745 20.6842)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 597.3373 20.6842)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 642.7279 19.2292)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 639.6859 24.6906)" class="st0 st3">ENERGIZATION</text>
+</g>
+<rect id="SBESS-4_-_65B6.1_-_Battery_QC" x="552" y="196.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B6.1_-_Battery_Terms" x="593.6" y="196.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B6.1_-_Enclosure_Energization" x="634.9" y="196.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B6.2_-_Battery_QC" x="552" y="174.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B6.2_-_Battery_Terms" x="593.6" y="174.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B6.2_-_Enclosure_Energization" x="634.9" y="174.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B6.3_-_Battery_QC" x="416.8" y="196.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B6.3_-_Battery_Terms" x="458.2" y="196.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B6.3_-_Enclosure_Energization" x="499.7" y="196.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B6.4_-_Battery_QC" x="416.8" y="174.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B6.4_-_Battery_Terms" x="458.2" y="174.8" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B6.4_-_Enclosure_Energization" x="499.7" y="174.8" class="st2" width="41.4" height="22"/>
+<g>
+	<text transform="matrix(1 0 0 1 424.3251 207.8081)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 463.1879 207.8081)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 508.5785 206.3524)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 505.5365 211.8143)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 424.3251 187.2391)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 463.1879 187.2391)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 508.5785 185.7841)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 505.5365 191.2456)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 558.4745 207.8081)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 597.3373 207.8081)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 642.7279 206.3524)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 639.6859 211.8143)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 558.4745 187.2391)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 597.3373 187.2391)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 642.7279 185.7841)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 639.6859 191.2456)" class="st0 st3">ENERGIZATION</text>
+</g>
+<rect id="SBESS-4_-_65B5.1_-_Battery_QC" x="552" y="279.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B5.1_-_Battery_Terms" x="593.6" y="279.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B5.1_-_Enclosure_Energization" x="634.9" y="279.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B5.2_-_Battery_QC" x="552" y="257.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B5.2_-_Battery_Terms" x="593.6" y="257.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B5.2_-_Enclosure_Energization" x="634.9" y="257.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B5.3_-_Battery_QC" x="416.8" y="279.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B5.3_-_Battery_Terms" x="458.2" y="279.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B5.3_-_Enclosure_Energization" x="499.7" y="279.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B5.4_-_Battery_QC" x="416.8" y="257.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B5.4_-_Battery_Terms" x="458.2" y="257.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B5.4_-_Enclosure_Energization" x="499.7" y="257.7" class="st2" width="41.4" height="22"/>
+<g>
+	<text transform="matrix(1 0 0 1 424.3251 290.7316)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 463.1879 290.7316)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 508.5785 289.276)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 505.5365 294.7379)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 424.3251 270.1627)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 463.1879 270.1627)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 508.5785 268.7076)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 505.5365 274.1691)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 558.4745 290.7316)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 597.3373 290.7316)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 642.7279 289.276)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 639.6859 294.7379)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 558.4745 270.1627)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 597.3373 270.1627)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 642.7279 268.7076)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 639.6859 274.1691)" class="st0 st3">ENERGIZATION</text>
+</g>
+<rect id="SBESS-4_-_65B4.1_-_Battery_QC" x="552" y="445.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B4.1_-_Battery_Terms" x="593.6" y="445.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B4.1_-_Enclosure_Energization" x="634.9" y="445.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B4.2_-_Battery_QC" x="552" y="423.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B4.2_-_Battery_Terms" x="593.6" y="423.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B4.2_-_Enclosure_Energization" x="634.9" y="423.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B4.3_-_Battery_QC" x="416.8" y="445.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B4.3_-_Battery_Terms" x="458.2" y="445.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B4.3_-_Enclosure_Energization" x="499.7" y="445.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B4.4_-_Battery_QC" x="416.8" y="423.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B4.4_-_Battery_Terms" x="458.2" y="423.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B4.4_-_Enclosure_Energization" x="499.7" y="423.5" class="st2" width="41.4" height="22"/>
+<g>
+	<text transform="matrix(1 0 0 1 424.3251 456.4949)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 463.1879 456.4949)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 508.5785 455.0394)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 505.5365 460.5013)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 424.3251 435.9261)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 463.1879 435.9261)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 508.5785 434.471)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 505.5365 439.9324)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 558.4745 456.4949)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 597.3373 456.4949)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 642.7279 455.0394)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 639.6859 460.5013)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 558.4745 435.9261)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 597.3373 435.9261)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 642.7279 434.471)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 639.6859 439.9324)" class="st0 st3">ENERGIZATION</text>
+</g>
+<rect id="SBESS-4_-_65B3.1_-_Battery_QC" x="552" y="528.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B3.1_-_Battery_Terms" x="593.6" y="528.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B3.1_-_Enclosure_Energization" x="634.9" y="528.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B3.2_-_Battery_QC" x="552" y="506.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B3.2_-_Battery_Terms" x="593.6" y="506.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B3.2_-_Enclosure_Energization" x="634.9" y="506.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B3.3_-_Battery_QC" x="416.8" y="528.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B3.3_-_Battery_Terms" x="458.2" y="528.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B3.3_-_Enclosure_Energization" x="499.7" y="528.5" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B3.4_-_Battery_QC" x="416.8" y="506.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B3.4_-_Battery_Terms" x="458.2" y="506.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B3.4_-_Enclosure_Energization" x="499.7" y="506.4" class="st2" width="41.4" height="22"/>
+<g>
+	<text transform="matrix(1 0 0 1 424.3251 539.4594)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 463.1879 539.4594)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 508.5785 538.0038)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 505.5365 543.4657)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 424.3251 518.8906)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 463.1879 518.8906)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 508.5785 517.4355)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 505.5365 522.8969)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 558.4745 539.4594)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 597.3373 539.4594)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 642.7279 538.0038)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 639.6859 543.4657)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 558.4745 518.8906)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 597.3373 518.8906)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 642.7279 517.4355)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 639.6859 522.8969)" class="st0 st3">ENERGIZATION</text>
+</g>
+<rect id="SBESS-4_-_65B2.1_-_Battery_QC" x="552" y="695.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B2.1_-_Battery_Terms" x="593.6" y="695.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B2.1_-_Enclosure_Energization" x="634.9" y="695.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B2.2_-_Battery_QC" x="552" y="673.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B2.2_-_Battery_Terms" x="593.6" y="673.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B2.2_-_Enclosure_Energization" x="634.9" y="673.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B2.3_-_Battery_QC" x="416.8" y="695.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B2.3_-_Battery_Terms" x="458.2" y="695.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B2.3_-_Enclosure_Energization" x="499.7" y="695.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B2.4_-_Battery_QC" x="416.8" y="673.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B2.4_-_Battery_Terms" x="458.2" y="673.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B2.4_-_Enclosure_Energization" x="499.7" y="673.3" class="st2" width="41.4" height="22"/>
+<g>
+	<text transform="matrix(1 0 0 1 424.3251 706.3146)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 463.1879 706.3146)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 508.5785 704.859)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 505.5365 710.3209)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 424.3251 685.7457)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 463.1879 685.7457)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 508.5785 684.2906)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 505.5365 689.7521)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 558.4745 706.3146)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 597.3373 706.3146)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 642.7279 704.859)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 639.6859 710.3209)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 558.4745 685.7457)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 597.3373 685.7457)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 642.7279 684.2906)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 639.6859 689.7521)" class="st0 st3">ENERGIZATION</text>
+</g>
+<rect id="SBESS-4_-_65B1.1_-_Battery_QC" x="552" y="778.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B1.1_-_Battery_Terms" x="593.6" y="778.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B1.1_-_Enclosure_Energization" x="634.9" y="778.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B1.2_-_Battery_QC" x="552" y="756.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B1.2_-_Battery_Terms" x="593.6" y="756.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B1.2_-_Enclosure_Energization" x="634.9" y="756.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B1.3_-_Battery_QC" x="416.8" y="778.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B1.3_-_Battery_Terms" x="458.2" y="778.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B1.3_-_Enclosure_Energization" x="499.7" y="778.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B1.4_-_Battery_QC" x="416.8" y="756.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B1.4_-_Battery_Terms" x="458.2" y="756.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65B1.4_-_Enclosure_Energization" x="499.7" y="756.3" class="st2" width="41.4" height="22"/>
+<g>
+	<text transform="matrix(1 0 0 1 424.3251 789.279)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 463.1879 789.279)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 508.5785 787.8235)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 505.5365 793.2854)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 424.3251 768.7102)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 463.1879 768.7102)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 508.5785 767.2551)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 505.5365 772.7165)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 558.4745 789.279)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 597.3373 789.279)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 642.7279 787.8235)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 639.6859 793.2854)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 558.4745 768.7102)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 597.3373 768.7102)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 642.7279 767.2551)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 639.6859 772.7165)" class="st0 st3">ENERGIZATION</text>
+</g>
+<rect id="SBESS-4_-_65A10.1_-_Battery_QC" x="1041" y="908.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A10.1_-_Battery_Terms" x="1082.6" y="908.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A10.1_-_Enclosure_Energization" x="1123.9" y="908.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A10.2_-_Battery_QC" x="1041" y="930.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A10.2_-_Battery_Terms" x="1082.6" y="930.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A10.2_-_Enclosure_Energization" x="1123.9" y="930.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A10.3_-_Battery_QC" x="1176.2" y="908.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A10.3_-_Battery_Terms" x="1217.6" y="908.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A10.3_-_Enclosure_Energization" x="1259.1" y="908.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A10.4_-_Battery_QC" x="1176.2" y="930.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A10.4_-_Battery_Terms" x="1217.6" y="930.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A10.4_-_Enclosure_Energization" x="1259.1" y="930.2" class="st2" width="41.4" height="22"/>
+<g>
+	<text transform="matrix(1 0 0 1 1048.538 941.1751)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1087.4008 941.1751)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1132.7914 939.7195)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1129.7494 945.1814)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1048.538 920.6062)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1087.4008 920.6062)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1132.7914 919.1512)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1129.7494 924.6126)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1182.6874 941.1751)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1221.5502 941.1751)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1266.9408 939.7195)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1263.8988 945.1814)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1182.6874 920.6062)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1221.5502 920.6062)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1266.9408 919.1512)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1263.8988 924.6126)" class="st0 st3">ENERGIZATION</text>
+</g>
+<rect id="SBESS-4_-_65A9.1_-_Battery_QC" x="1041" y="1074.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A9.1_-_Battery_Terms" x="1082.6" y="1074.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A9.1_-_Enclosure_Energization" x="1123.9" y="1074.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A9.2_-_Battery_QC" x="1041" y="1096.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A9.2_-_Battery_Terms" x="1082.6" y="1096.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A9.2_-_Enclosure_Energization" x="1123.9" y="1096.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A9.3_-_Battery_QC" x="1176.2" y="1074.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A9.3_-_Battery_Terms" x="1217.6" y="1074.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A9.3_-_Enclosure_Energization" x="1259.1" y="1074.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A9.4_-_Battery_QC" x="1176.2" y="1096.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A9.4_-_Battery_Terms" x="1217.6" y="1096.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A9.4_-_Enclosure_Energization" x="1259.1" y="1096.7" class="st2" width="41.4" height="22"/>
+<g>
+	<text transform="matrix(1 0 0 1 1048.538 1107.7299)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1087.4008 1107.7299)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1132.7914 1106.2743)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1129.7494 1111.7362)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1048.538 1087.161)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1087.4008 1087.161)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1132.7914 1085.7059)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1129.7494 1091.1674)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1182.6874 1107.7299)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1221.5502 1107.7299)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1266.9408 1106.2743)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1263.8988 1111.7362)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1182.6874 1087.161)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1221.5502 1087.161)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1266.9408 1085.7059)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1263.8988 1091.1674)" class="st0 st3">ENERGIZATION</text>
+</g>
+<rect id="SBESS-4_-_65A8.1_-_Battery_QC" x="1041" y="1157.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A8.1_-_Battery_Terms" x="1082.6" y="1157.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A8.1_-_Enclosure_Energization" x="1123.9" y="1157.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A8.2_-_Battery_QC" x="1041" y="1179.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A8.2_-_Battery_Terms" x="1082.6" y="1179.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A8.2_-_Enclosure_Energization" x="1123.9" y="1179.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A8.3_-_Battery_QC" x="1176.2" y="1157.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A8.3_-_Battery_Terms" x="1217.6" y="1157.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A8.3_-_Enclosure_Energization" x="1259.1" y="1157.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A8.4_-_Battery_QC" x="1176.2" y="1179.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A8.4_-_Battery_Terms" x="1217.6" y="1179.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A8.4_-_Enclosure_Energization" x="1259.1" y="1179.7" class="st2" width="41.4" height="22"/>
+<g>
+	<text transform="matrix(1 0 0 1 1048.538 1190.6945)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1087.4008 1190.6945)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1132.7914 1189.2389)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1129.7494 1194.7008)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1048.538 1170.1256)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1087.4008 1170.1256)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1132.7914 1168.6705)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1129.7494 1174.132)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1182.6874 1190.6945)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1221.5502 1190.6945)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1266.9408 1189.2389)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1263.8988 1194.7008)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1182.6874 1170.1256)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1221.5502 1170.1256)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1266.9408 1168.6705)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1263.8988 1174.132)" class="st0 st3">ENERGIZATION</text>
+</g>
+<rect id="SBESS-4_-_65A7.1_-_Battery_QC" x="1041" y="1324.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A7.1_-_Battery_Terms" x="1082.6" y="1324.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A7.1_-_Enclosure_Energization" x="1123.9" y="1324.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A7.2_-_Battery_QC" x="1041" y="1346.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A7.2_-_Battery_Terms" x="1082.6" y="1346.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A7.2_-_Enclosure_Energization" x="1123.9" y="1346.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A7.3_-_Battery_QC" x="1176.2" y="1324.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A7.3_-_Battery_Terms" x="1217.6" y="1324.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A7.3_-_Enclosure_Energization" x="1259.1" y="1324.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A7.4_-_Battery_QC" x="1176.2" y="1346.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A7.4_-_Battery_Terms" x="1217.6" y="1346.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A7.4_-_Enclosure_Energization" x="1259.1" y="1346.4" class="st2" width="41.4" height="22"/>
+<g>
+	<text transform="matrix(1 0 0 1 1048.538 1357.3964)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1087.4008 1357.3964)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1132.7914 1355.9408)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1129.7494 1361.4027)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1048.538 1336.8275)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1087.4008 1336.8275)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1132.7914 1335.3724)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1129.7494 1340.8339)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1182.6874 1357.3964)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1221.5502 1357.3964)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1266.9408 1355.9408)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1263.8988 1361.4027)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1182.6874 1336.8275)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1221.5502 1336.8275)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1266.9408 1335.3724)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1263.8988 1340.8339)" class="st0 st3">ENERGIZATION</text>
+</g>
+<rect id="SBESS-4_-_65A6.1_-_Battery_QC" x="1492.8" y="930.1" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A6.1_-_Battery_Terms" x="1534.4" y="930.1" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A6.1_-_Enclosure_Energization" x="1575.8" y="930.1" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A6.2_-_Battery_QC" x="1492.8" y="908.1" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A6.2_-_Battery_Terms" x="1534.4" y="908.1" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A6.2_-_Enclosure_Energization" x="1575.8" y="908.1" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A6.3_-_Battery_QC" x="1357.6" y="930.1" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A6.3_-_Battery_Terms" x="1399" y="930.1" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A6.3_-_Enclosure_Energization" x="1440.5" y="930.1" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A6.4_-_Battery_QC" x="1357.6" y="908.1" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A6.4_-_Battery_Terms" x="1399" y="908.1" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A6.4_-_Enclosure_Energization" x="1440.5" y="908.1" class="st2" width="41.4" height="22"/>
+<g>
+	<text transform="matrix(1 0 0 1 1365.1486 941.1341)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1404.0114 941.1341)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1449.402 939.6786)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1446.36 945.1405)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1365.1486 920.5653)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1404.0114 920.5653)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1449.402 919.1102)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1446.36 924.5716)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1499.298 941.1341)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1538.1608 941.1341)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1583.5514 939.6786)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1580.5094 945.1405)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1499.298 920.5653)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1538.1608 920.5653)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1583.5514 919.1102)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1580.5094 924.5716)" class="st0 st3">ENERGIZATION</text>
+</g>
+<rect id="SBESS-4_-_65A5.1_-_Battery_QC" x="1492.8" y="1096.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A5.1_-_Battery_Terms" x="1534.4" y="1096.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A5.1_-_Enclosure_Energization" x="1575.8" y="1096.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A5.2_-_Battery_QC" x="1492.8" y="1074.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A5.2_-_Battery_Terms" x="1534.4" y="1074.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A5.2_-_Enclosure_Energization" x="1575.8" y="1074.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A5.3_-_Battery_QC" x="1357.6" y="1096.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A5.3_-_Battery_Terms" x="1399" y="1096.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A5.3_-_Enclosure_Energization" x="1440.5" y="1096.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A5.4_-_Battery_QC" x="1357.6" y="1074.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A5.4_-_Battery_Terms" x="1399" y="1074.7" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A5.4_-_Enclosure_Energization" x="1440.5" y="1074.7" class="st2" width="41.4" height="22"/>
+<g>
+	<text transform="matrix(1 0 0 1 1365.1486 1107.689)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1404.0114 1107.689)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1449.402 1106.2334)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1446.36 1111.6953)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1365.1486 1087.1201)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1404.0114 1087.1201)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1449.402 1085.665)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1446.36 1091.1265)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1499.298 1107.689)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1538.1608 1107.689)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1583.5514 1106.2334)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1580.5094 1111.6953)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1499.298 1087.1201)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1538.1608 1087.1201)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1583.5514 1085.665)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1580.5094 1091.1265)" class="st0 st3">ENERGIZATION</text>
+</g>
+<rect id="SBESS-4_-_65A4.1_-_Battery_QC" x="1492.8" y="1179.6" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A4.1_-_Battery_Terms" x="1534.4" y="1179.6" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A4.1_-_Enclosure_Energization" x="1575.8" y="1179.6" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A4.2_-_Battery_QC" x="1492.8" y="1157.6" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A4.2_-_Battery_Terms" x="1534.4" y="1157.6" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A4.2_-_Enclosure_Energization" x="1575.8" y="1157.6" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A4.3_-_Battery_QC" x="1357.6" y="1179.6" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A4.3_-_Battery_Terms" x="1399" y="1179.6" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A4.3_-_Enclosure_Energization" x="1440.5" y="1179.6" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A4.4_-_Battery_QC" x="1357.6" y="1157.6" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A4.4_-_Battery_Terms" x="1399" y="1157.6" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A4.4_-_Enclosure_Energization" x="1440.5" y="1157.6" class="st2" width="41.4" height="22"/>
+<g>
+	<text transform="matrix(1 0 0 1 1365.1486 1190.6125)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1404.0114 1190.6125)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1449.402 1189.157)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1446.36 1194.6189)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1365.1486 1170.0437)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1404.0114 1170.0437)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1449.402 1168.5886)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1446.36 1174.05)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1499.298 1190.6125)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1538.1608 1190.6125)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1583.5514 1189.157)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1580.5094 1194.6189)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1499.298 1170.0437)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1538.1608 1170.0437)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1583.5514 1168.5886)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1580.5094 1174.05)" class="st0 st3">ENERGIZATION</text>
+</g>
+<rect id="SBESS-4_-_65A3.1_-_Battery_QC" x="1492.8" y="1345.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A3.1_-_Battery_Terms" x="1534.4" y="1345.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A3.1_-_Enclosure_Energization" x="1575.8" y="1345.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A3.2_-_Battery_QC" x="1492.8" y="1323.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A3.2_-_Battery_Terms" x="1534.4" y="1323.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A3.2_-_Enclosure_Energization" x="1575.8" y="1323.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A3.3_-_Battery_QC" x="1357.6" y="1345.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A3.3_-_Battery_Terms" x="1399" y="1345.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A3.3_-_Enclosure_Energization" x="1440.5" y="1345.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A3.4_-_Battery_QC" x="1357.6" y="1323.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A3.4_-_Battery_Terms" x="1399" y="1323.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A3.4_-_Enclosure_Energization" x="1440.5" y="1323.4" class="st2" width="41.4" height="22"/>
+<g>
+	<text transform="matrix(1 0 0 1 1365.1486 1356.376)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1404.0114 1356.376)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1449.402 1354.9204)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1446.36 1360.3823)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1365.1486 1335.8071)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1404.0114 1335.8071)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1449.402 1334.3521)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1446.36 1339.8135)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1499.298 1356.376)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1538.1608 1356.376)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1583.5514 1354.9204)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1580.5094 1360.3823)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1499.298 1335.8071)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1538.1608 1335.8071)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1583.5514 1334.3521)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1580.5094 1339.8135)" class="st0 st3">ENERGIZATION</text>
+</g>
+<rect id="SBESS-4_-_65A2.1_-_Battery_QC" x="1492.8" y="1428.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A2.1_-_Battery_Terms" x="1534.4" y="1428.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A2.1_-_Enclosure_Energization" x="1575.8" y="1428.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A2.2_-_Battery_QC" x="1492.8" y="1406.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A2.2_-_Battery_Terms" x="1534.4" y="1406.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A2.2_-_Enclosure_Energization" x="1575.8" y="1406.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A2.3_-_Battery_QC" x="1357.6" y="1428.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A2.3_-_Battery_Terms" x="1399" y="1428.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A2.3_-_Enclosure_Energization" x="1440.5" y="1428.4" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A2.4_-_Battery_QC" x="1357.6" y="1406.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A2.4_-_Battery_Terms" x="1399" y="1406.3" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A2.4_-_Enclosure_Energization" x="1440.5" y="1406.3" class="st2" width="41.4" height="22"/>
+<g>
+	<text transform="matrix(1 0 0 1 1365.1486 1439.3405)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1404.0114 1439.3405)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1449.402 1437.8849)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1446.36 1443.3468)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1365.1486 1418.7716)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1404.0114 1418.7716)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1449.402 1417.3165)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1446.36 1422.778)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1499.298 1439.3405)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1538.1608 1439.3405)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1583.5514 1437.8849)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1580.5094 1443.3468)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1499.298 1418.7716)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1538.1608 1418.7716)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1583.5514 1417.3165)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1580.5094 1422.778)" class="st0 st3">ENERGIZATION</text>
+</g>
+<rect id="SBESS-4_-_65A1.1_-_Battery_QC" x="1492.8" y="1595.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A1.1_-_Battery_Terms" x="1534.4" y="1595.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A1.1_-_Enclosure_Energization" x="1575.8" y="1595.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A1.2_-_Battery_QC" x="1492.8" y="1573.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A1.2_-_Battery_Terms" x="1534.4" y="1573.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A1.2_-_Enclosure_Energization" x="1575.8" y="1573.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A1.3_-_Battery_QC" x="1357.6" y="1595.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A1.3_-_Battery_Terms" x="1399" y="1595.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A1.3_-_Enclosure_Energization" x="1440.5" y="1595.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A1.4_-_Battery_QC" x="1357.6" y="1573.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A1.4_-_Battery_Terms" x="1399" y="1573.2" class="st2" width="41.4" height="22"/>
+<rect id="SBESS-4_-_65A1.4_-_Enclosure_Energization" x="1440.5" y="1573.2" class="st2" width="41.4" height="22"/>
+<g>
+	<text transform="matrix(1 0 0 1 1365.1486 1606.1956)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1404.0114 1606.1956)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1449.402 1604.74)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1446.36 1610.2019)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1365.1486 1585.6267)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1404.0114 1585.6267)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1449.402 1584.1716)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1446.36 1589.6331)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1499.298 1606.1956)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1538.1608 1606.1956)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1583.5514 1604.74)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1580.5094 1610.2019)" class="st0 st3">ENERGIZATION</text>
+	<text transform="matrix(1 0 0 1 1499.298 1585.6267)" class="st0 st3">BATTERY QC</text>
+	<text transform="matrix(1 0 0 1 1538.1608 1585.6267)" class="st0 st3">BATTERY TERMS</text>
+	<text transform="matrix(1 0 0 1 1583.5514 1584.1716)" class="st0 st3">ENCLOSURE</text>
+	<text transform="matrix(1 0 0 1 1580.5094 1589.6331)" class="st0 st3">ENERGIZATION</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 531.4504 5.3566)" class="st0 st4">.4</text>
+	<text transform="matrix(1 0 0 1 531.4504 58.1193)" class="st0 st4">.3</text>
+	<text transform="matrix(1 0 0 1 667.8533 5.3566)" class="st0 st4">.2</text>
+	<text transform="matrix(1 0 0 1 667.8533 58.1193)" class="st0 st4">.1</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 105.4024 5.3762)" class="st0 st4">.1</text>
+	<text transform="matrix(1 0 0 1 105.4024 58.1389)" class="st0 st4">.2</text>
+	<text transform="matrix(1 0 0 1 241.8052 5.3762)" class="st0 st4">.3</text>
+	<text transform="matrix(1 0 0 1 241.8052 58.1389)" class="st0 st4">.4</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 531.4504 172.3056)" class="st0 st4">.4</text>
+	<text transform="matrix(1 0 0 1 531.4504 225.0683)" class="st0 st4">.3</text>
+	<text transform="matrix(1 0 0 1 667.8533 172.3056)" class="st0 st4">.2</text>
+	<text transform="matrix(1 0 0 1 667.8533 225.0683)" class="st0 st4">.1</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 105.4024 172.3253)" class="st0 st4">.1</text>
+	<text transform="matrix(1 0 0 1 105.4024 225.088)" class="st0 st4">.2</text>
+	<text transform="matrix(1 0 0 1 241.8052 172.3253)" class="st0 st4">.3</text>
+	<text transform="matrix(1 0 0 1 241.8052 225.088)" class="st0 st4">.4</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 531.4504 254.6965)" class="st0 st4">.4</text>
+	<text transform="matrix(1 0 0 1 531.4504 307.4592)" class="st0 st4">.3</text>
+	<text transform="matrix(1 0 0 1 667.8533 254.6965)" class="st0 st4">.2</text>
+	<text transform="matrix(1 0 0 1 667.8533 307.4592)" class="st0 st4">.1</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 105.4024 254.7162)" class="st0 st4">.1</text>
+	<text transform="matrix(1 0 0 1 105.4024 307.4789)" class="st0 st4">.2</text>
+	<text transform="matrix(1 0 0 1 241.8052 254.7162)" class="st0 st4">.3</text>
+	<text transform="matrix(1 0 0 1 241.8052 307.4789)" class="st0 st4">.4</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 531.4504 420.3969)" class="st0 st4">.4</text>
+	<text transform="matrix(1 0 0 1 531.4504 473.1595)" class="st0 st4">.3</text>
+	<text transform="matrix(1 0 0 1 667.8533 420.3969)" class="st0 st4">.2</text>
+	<text transform="matrix(1 0 0 1 667.8533 473.1595)" class="st0 st4">.1</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 239.888 420.4165)" class="st0 st4">.1</text>
+	<text transform="matrix(1 0 0 1 239.888 473.1792)" class="st0 st4">.2</text>
+</g>
+<text transform="matrix(1 0 0 1 240.2478 503.0241)" class="st0 st4">.3</text>
+<text transform="matrix(1 0 0 1 240.2478 555.7868)" class="st0 st4">.4</text>
+<g>
+	<text transform="matrix(1 0 0 1 531.4504 503.3332)" class="st0 st4">.4</text>
+	<text transform="matrix(1 0 0 1 531.4504 556.0959)" class="st0 st4">.3</text>
+	<text transform="matrix(1 0 0 1 667.8533 503.3332)" class="st0 st4">.2</text>
+	<text transform="matrix(1 0 0 1 667.8533 556.0959)" class="st0 st4">.1</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 531.4504 670.2488)" class="st0 st4">.4</text>
+	<text transform="matrix(1 0 0 1 531.4504 723.0115)" class="st0 st4">.3</text>
+	<text transform="matrix(1 0 0 1 667.8533 670.2488)" class="st0 st4">.2</text>
+	<text transform="matrix(1 0 0 1 667.8533 723.0115)" class="st0 st4">.1</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 531.4504 753.1851)" class="st0 st4">.4</text>
+	<text transform="matrix(1 0 0 1 531.4504 805.9478)" class="st0 st4">.3</text>
+	<text transform="matrix(1 0 0 1 667.8533 753.1851)" class="st0 st4">.2</text>
+	<text transform="matrix(1 0 0 1 667.8533 805.9478)" class="st0 st4">.1</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 1471.3939 904.7054)" class="st0 st4">.4</text>
+	<text transform="matrix(1 0 0 1 1471.3939 957.4681)" class="st0 st4">.3</text>
+	<text transform="matrix(1 0 0 1 1607.7968 904.7054)" class="st0 st4">.2</text>
+	<text transform="matrix(1 0 0 1 1607.7968 957.4681)" class="st0 st4">.1</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 1045.3459 904.725)" class="st0 st4">.1</text>
+	<text transform="matrix(1 0 0 1 1045.3459 957.4877)" class="st0 st4">.2</text>
+	<text transform="matrix(1 0 0 1 1181.7488 904.725)" class="st0 st4">.3</text>
+	<text transform="matrix(1 0 0 1 1181.7488 957.4877)" class="st0 st4">.4</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 1471.3939 1071.2053)" class="st0 st4">.4</text>
+	<text transform="matrix(1 0 0 1 1471.3939 1123.968)" class="st0 st4">.3</text>
+	<text transform="matrix(1 0 0 1 1607.7968 1071.2053)" class="st0 st4">.2</text>
+	<text transform="matrix(1 0 0 1 1607.7968 1123.968)" class="st0 st4">.1</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 1045.3459 1071.225)" class="st0 st4">.1</text>
+	<text transform="matrix(1 0 0 1 1045.3459 1123.9877)" class="st0 st4">.2</text>
+	<text transform="matrix(1 0 0 1 1181.7488 1071.225)" class="st0 st4">.3</text>
+	<text transform="matrix(1 0 0 1 1181.7488 1123.9877)" class="st0 st4">.4</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 1471.3939 1154.2052)" class="st0 st4">.4</text>
+	<text transform="matrix(1 0 0 1 1471.3939 1206.9679)" class="st0 st4">.3</text>
+	<text transform="matrix(1 0 0 1 1607.7968 1154.2052)" class="st0 st4">.2</text>
+	<text transform="matrix(1 0 0 1 1607.7968 1206.9679)" class="st0 st4">.1</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 1045.3459 1154.225)" class="st0 st4">.1</text>
+	<text transform="matrix(1 0 0 1 1045.3459 1206.9877)" class="st0 st4">.2</text>
+	<text transform="matrix(1 0 0 1 1181.7488 1154.225)" class="st0 st4">.3</text>
+	<text transform="matrix(1 0 0 1 1181.7488 1206.9877)" class="st0 st4">.4</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 1471.3939 1321.1898)" class="st0 st4">.4</text>
+	<text transform="matrix(1 0 0 1 1471.3939 1373.9525)" class="st0 st4">.3</text>
+	<text transform="matrix(1 0 0 1 1607.7968 1321.1898)" class="st0 st4">.2</text>
+	<text transform="matrix(1 0 0 1 1607.7968 1373.9525)" class="st0 st4">.1</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 1045.3459 1321.2096)" class="st0 st4">.1</text>
+	<text transform="matrix(1 0 0 1 1045.3459 1373.9723)" class="st0 st4">.2</text>
+	<text transform="matrix(1 0 0 1 1181.7488 1321.2096)" class="st0 st4">.3</text>
+	<text transform="matrix(1 0 0 1 1181.7488 1373.9723)" class="st0 st4">.4</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 1471.3939 1403.452)" class="st0 st4">.4</text>
+	<text transform="matrix(1 0 0 1 1471.3939 1456.2147)" class="st0 st4">.3</text>
+	<text transform="matrix(1 0 0 1 1607.7968 1403.452)" class="st0 st4">.2</text>
+	<text transform="matrix(1 0 0 1 1607.7968 1456.2147)" class="st0 st4">.1</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 1471.3939 1570.8608)" class="st0 st4">.4</text>
+	<text transform="matrix(1 0 0 1 1471.3939 1623.6235)" class="st0 st4">.3</text>
+	<text transform="matrix(1 0 0 1 1607.7968 1570.8608)" class="st0 st4">.2</text>
+	<text transform="matrix(1 0 0 1 1607.7968 1623.6235)" class="st0 st4">.1</text>
+</g>
+</svg>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.8.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 4207.8 7630.9" style="enable-background:new 0 0 4207.8 7630.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'Calibri';}
+	.st1{font-size:208.4957px;}
+	.st2{fill:#FFFFFF;stroke:#000000;stroke-width:0.1358;stroke-miterlimit:1.3588;}
+	.st3{enable-background:new    ;}
+	.st4{font-size:30px;}
+	.st5{font-size:22px;}
+</style>
+<g>
+	<text transform="matrix(1 0 0 1 2397.2856 232.4577)" class="st0 st1">81B1</text>
+	<text transform="matrix(1 0 0 1 2390.0576 1220.5549)" class="st0 st1">81A1</text>
+	<text transform="matrix(1 0 0 1 2390.0576 1706.5776)" class="st0 st1">81A2</text>
+	<text transform="matrix(1 0 0 1 2390.0576 2693.5713)" class="st0 st1">81A3</text>
+	<text transform="matrix(1 0 0 1 2390.0576 3179.594)" class="st0 st1">81A4</text>
+	<text transform="matrix(1 0 0 1 2390.0576 4165.4165)" class="st0 st1">81A5</text>
+	<text transform="matrix(1 0 0 1 2390.0576 5079.9619)" class="st0 st1">81A6</text>
+	<text transform="matrix(1 0 0 1 2390.0576 6067.8896)" class="st0 st1">81A7</text>
+	<text transform="matrix(1 0 0 1 2390.0576 6553.9126)" class="st0 st1">81A8</text>
+	<text transform="matrix(1 0 0 1 1372.0233 1706.5776)" class="st0 st1">81B2</text>
+	<text transform="matrix(1 0 0 1 1380.3621 2693.5713)" class="st0 st1">81B3</text>
+	<text transform="matrix(1 0 0 1 1388.7007 3179.594)" class="st0 st1">81B4</text>
+	<text transform="matrix(1 0 0 1 1388.7007 4165.4165)" class="st0 st1">81B5</text>
+	<text transform="matrix(1 0 0 1 1376.4329 5079.9619)" class="st0 st1">81B6</text>
+	<text transform="matrix(1 0 0 1 1384.771 6067.8896)" class="st0 st1">81B7</text>
+	<text transform="matrix(1 0 0 1 1384.771 6553.9126)" class="st0 st1">81B8</text>
+	<text transform="matrix(1 0 0 1 2390.0576 7540.6914)" class="st0 st1">81A9</text>
+	<text transform="matrix(1 0 0 1 1393.1096 7540.6914)" class="st0 st1">81B9</text>
+</g>
+<rect id="E5_-_81B1_-_TG_Witness_Test_Passed" x="3046.2" y="34.2" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81B1_-_KCFD_Witness_Test_Passed" x="3266.9" y="34.2" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81B1_-_Farringtong_Tested_with_KCFD" x="3488.7" y="34.2" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81B1_-_MAM_Pre-tested" x="3709.4" y="34.2" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81B1_-_Troubleshooting_Required" x="3931.6" y="34.2" class="st2" width="220.7" height="262.3"/>
+<g>
+	<text transform="matrix(1 0 0 1 3074.5498 153.8828)" class="st3"><tspan x="0" y="0" class="st0 st4">TG WITNESS</tspan><tspan x="46.6" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 3287.2629 154.4011)" class="st3"><tspan x="0" y="0" class="st0 st4">KCFD WITNESS</tspan><tspan x="61.7" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 3517.3599 154.4013)" class="st3"><tspan x="0" y="0" class="st0 st4">FARRINGTON</tspan><tspan x="-21.5" y="36" class="st0 st4">TESTED W/ KCFD</tspan></text>
+	<text transform="matrix(1 0 0 1 3786.7427 153.8832)" class="st3"><tspan x="0" y="0" class="st0 st4">MAM</tspan><tspan x="-38.9" y="36" class="st0 st4">PRE-TESTED</tspan></text>
+	<text transform="matrix(1 0 0 1 3951.6279 157.2097)" class="st3"><tspan x="0" y="0" class="st0 st5">TROUBLESHOOTING</tspan><tspan x="43.6" y="26.4" class="st0 st5">REQUIRED</tspan></text>
+</g>
+<rect id="E5_-_81A1_-_TG_Witness_Test_Passed" x="3046.2" y="1022.3" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81A1_-_KCFD_Witness_Test_Passed" x="3266.9" y="1022.3" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81A1_-_Farringtong_Tested_with_KCFD" x="3488.7" y="1022.3" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81A1_-_MAM_Pre-tested" x="3709.4" y="1022.3" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81A1_-_Troubleshooting_Required" x="3931.6" y="1022.3" class="st2" width="220.7" height="262.3"/>
+<g>
+	<text transform="matrix(1 0 0 1 3074.5498 1141.9824)" class="st3"><tspan x="0" y="0" class="st0 st4">TG WITNESS</tspan><tspan x="46.6" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 3287.2629 1142.5007)" class="st3"><tspan x="0" y="0" class="st0 st4">KCFD WITNESS</tspan><tspan x="61.7" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 3517.3599 1142.501)" class="st3"><tspan x="0" y="0" class="st0 st4">FARRINGTON</tspan><tspan x="-21.5" y="36" class="st0 st4">TESTED W/ KCFD</tspan></text>
+	<text transform="matrix(1 0 0 1 3786.7427 1141.9829)" class="st3"><tspan x="0" y="0" class="st0 st4">MAM</tspan><tspan x="-38.9" y="36" class="st0 st4">PRE-TESTED</tspan></text>
+	<text transform="matrix(1 0 0 1 3951.6279 1145.3093)" class="st3"><tspan x="0" y="0" class="st0 st5">TROUBLESHOOTING</tspan><tspan x="43.6" y="26.4" class="st0 st5">REQUIRED</tspan></text>
+</g>
+<rect id="E5_-_81A2_-_TG_Witness_Test_Passed" x="3046.2" y="1508.3" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81A2_-_KCFD_Witness_Test_Passed" x="3266.9" y="1508.3" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81A2_-_Farringtong_Tested_with_KCFD" x="3488.7" y="1508.3" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81A2_-_MAM_Pre-tested" x="3709.4" y="1508.3" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81A2_-_Troubleshooting_Required" x="3931.6" y="1508.3" class="st2" width="220.7" height="262.3"/>
+<g>
+	<text transform="matrix(1 0 0 1 3074.5498 1627.9824)" class="st3"><tspan x="0" y="0" class="st0 st4">TG WITNESS</tspan><tspan x="46.6" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 3287.2629 1628.5007)" class="st3"><tspan x="0" y="0" class="st0 st4">KCFD WITNESS</tspan><tspan x="61.7" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 3517.3599 1628.501)" class="st3"><tspan x="0" y="0" class="st0 st4">FARRINGTON</tspan><tspan x="-21.5" y="36" class="st0 st4">TESTED W/ KCFD</tspan></text>
+	<text transform="matrix(1 0 0 1 3786.7427 1627.9829)" class="st3"><tspan x="0" y="0" class="st0 st4">MAM</tspan><tspan x="-38.9" y="36" class="st0 st4">PRE-TESTED</tspan></text>
+	<text transform="matrix(1 0 0 1 3951.6279 1631.3093)" class="st3"><tspan x="0" y="0" class="st0 st5">TROUBLESHOOTING</tspan><tspan x="43.6" y="26.4" class="st0 st5">REQUIRED</tspan></text>
+</g>
+<rect id="E5_-_81A3_-_TG_Witness_Test_Passed" x="3046.2" y="2495.3" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81A3_-_KCFD_Witness_Test_Passed" x="3266.9" y="2495.3" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81A3_-_Farringtong_Tested_with_KCFD" x="3488.7" y="2495.3" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81A3_-_MAM_Pre-tested" x="3709.4" y="2495.3" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81A3_-_Troubleshooting_Required" x="3931.6" y="2495.3" class="st2" width="220.7" height="262.3"/>
+<g>
+	<text transform="matrix(1 0 0 1 3074.5498 2614.9824)" class="st3"><tspan x="0" y="0" class="st0 st4">TG WITNESS</tspan><tspan x="46.6" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 3287.2629 2615.5007)" class="st3"><tspan x="0" y="0" class="st0 st4">KCFD WITNESS</tspan><tspan x="61.7" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 3517.3599 2615.501)" class="st3"><tspan x="0" y="0" class="st0 st4">FARRINGTON</tspan><tspan x="-21.5" y="36" class="st0 st4">TESTED W/ KCFD</tspan></text>
+	<text transform="matrix(1 0 0 1 3786.7427 2614.9829)" class="st3"><tspan x="0" y="0" class="st0 st4">MAM</tspan><tspan x="-38.9" y="36" class="st0 st4">PRE-TESTED</tspan></text>
+	<text transform="matrix(1 0 0 1 3951.6279 2618.3093)" class="st3"><tspan x="0" y="0" class="st0 st5">TROUBLESHOOTING</tspan><tspan x="43.6" y="26.4" class="st0 st5">REQUIRED</tspan></text>
+</g>
+<rect id="E5_-_81A4_-_TG_Witness_Test_Passed" x="3046.2" y="2981.3" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81A4_-_KCFD_Witness_Test_Passed" x="3266.9" y="2981.3" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81A4_-_Farringtong_Tested_with_KCFD" x="3488.7" y="2981.3" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81A4_-_MAM_Pre-tested" x="3709.4" y="2981.3" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81A4_-_Troubleshooting_Required" x="3931.6" y="2981.3" class="st2" width="220.7" height="262.3"/>
+<g>
+	<text transform="matrix(1 0 0 1 3074.5498 3100.9824)" class="st3"><tspan x="0" y="0" class="st0 st4">TG WITNESS</tspan><tspan x="46.6" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 3287.2629 3101.5007)" class="st3"><tspan x="0" y="0" class="st0 st4">KCFD WITNESS</tspan><tspan x="61.7" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 3517.3599 3101.501)" class="st3"><tspan x="0" y="0" class="st0 st4">FARRINGTON</tspan><tspan x="-21.5" y="36" class="st0 st4">TESTED W/ KCFD</tspan></text>
+	<text transform="matrix(1 0 0 1 3786.7427 3100.9829)" class="st3"><tspan x="0" y="0" class="st0 st4">MAM</tspan><tspan x="-38.9" y="36" class="st0 st4">PRE-TESTED</tspan></text>
+	<text transform="matrix(1 0 0 1 3951.6279 3104.3093)" class="st3"><tspan x="0" y="0" class="st0 st5">TROUBLESHOOTING</tspan><tspan x="43.6" y="26.4" class="st0 st5">REQUIRED</tspan></text>
+</g>
+<rect id="E5_-_81A5_-_TG_Witness_Test_Passed" x="3046.2" y="3967.1" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81A5_-_KCFD_Witness_Test_Passed" x="3266.9" y="3967.1" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81A5_-_Farringtong_Tested_with_KCFD" x="3488.7" y="3967.1" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81A5_-_MAM_Pre-tested" x="3709.4" y="3967.1" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81A5_-_Troubleshooting_Required" x="3931.6" y="3967.1" class="st2" width="220.7" height="262.3"/>
+<g>
+	<text transform="matrix(1 0 0 1 3074.5498 4086.7825)" class="st3"><tspan x="0" y="0" class="st0 st4">TG WITNESS</tspan><tspan x="46.6" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 3287.2629 4087.3008)" class="st3"><tspan x="0" y="0" class="st0 st4">KCFD WITNESS</tspan><tspan x="61.7" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 3517.3599 4087.301)" class="st3"><tspan x="0" y="0" class="st0 st4">FARRINGTON</tspan><tspan x="-21.5" y="36" class="st0 st4">TESTED W/ KCFD</tspan></text>
+	<text transform="matrix(1 0 0 1 3786.7427 4086.783)" class="st3"><tspan x="0" y="0" class="st0 st4">MAM</tspan><tspan x="-38.9" y="36" class="st0 st4">PRE-TESTED</tspan></text>
+	<text transform="matrix(1 0 0 1 3951.6279 4090.1094)" class="st3"><tspan x="0" y="0" class="st0 st5">TROUBLESHOOTING</tspan><tspan x="43.6" y="26.4" class="st0 st5">REQUIRED</tspan></text>
+</g>
+<rect id="E5_-_81A6_-_TG_Witness_Test_Passed" x="3046.2" y="4881.7" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81A6_-_KCFD_Witness_Test_Passed" x="3266.9" y="4881.7" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81A6_-_Farringtong_Tested_with_KCFD" x="3488.7" y="4881.7" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81A6_-_MAM_Pre-tested" x="3709.4" y="4881.7" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81A6_-_Troubleshooting_Required" x="3931.6" y="4881.7" class="st2" width="220.7" height="262.3"/>
+<g>
+	<text transform="matrix(1 0 0 1 3074.5498 5001.3823)" class="st3"><tspan x="0" y="0" class="st0 st4">TG WITNESS</tspan><tspan x="46.6" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 3287.2629 5001.9009)" class="st3"><tspan x="0" y="0" class="st0 st4">KCFD WITNESS</tspan><tspan x="61.7" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 3517.3599 5001.9009)" class="st3"><tspan x="0" y="0" class="st0 st4">FARRINGTON</tspan><tspan x="-21.5" y="36" class="st0 st4">TESTED W/ KCFD</tspan></text>
+	<text transform="matrix(1 0 0 1 3786.7427 5001.3828)" class="st3"><tspan x="0" y="0" class="st0 st4">MAM</tspan><tspan x="-38.9" y="36" class="st0 st4">PRE-TESTED</tspan></text>
+	<text transform="matrix(1 0 0 1 3951.6279 5004.7095)" class="st3"><tspan x="0" y="0" class="st0 st5">TROUBLESHOOTING</tspan><tspan x="43.6" y="26.4" class="st0 st5">REQUIRED</tspan></text>
+</g>
+<rect id="E5_-_81A7_-_TG_Witness_Test_Passed" x="3046.2" y="5869.6" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81A7_-_KCFD_Witness_Test_Passed" x="3266.9" y="5869.6" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81A7_-_Farringtong_Tested_with_KCFD" x="3488.7" y="5869.6" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81A7_-_MAM_Pre-tested" x="3709.4" y="5869.6" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81A7_-_Troubleshooting_Required" x="3931.6" y="5869.6" class="st2" width="220.7" height="262.3"/>
+<g>
+	<text transform="matrix(1 0 0 1 3074.5498 5989.2822)" class="st3"><tspan x="0" y="0" class="st0 st4">TG WITNESS</tspan><tspan x="46.6" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 3287.2629 5989.8008)" class="st3"><tspan x="0" y="0" class="st0 st4">KCFD WITNESS</tspan><tspan x="61.7" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 3517.3599 5989.8008)" class="st3"><tspan x="0" y="0" class="st0 st4">FARRINGTON</tspan><tspan x="-21.5" y="36" class="st0 st4">TESTED W/ KCFD</tspan></text>
+	<text transform="matrix(1 0 0 1 3786.7427 5989.2827)" class="st3"><tspan x="0" y="0" class="st0 st4">MAM</tspan><tspan x="-38.9" y="36" class="st0 st4">PRE-TESTED</tspan></text>
+	<text transform="matrix(1 0 0 1 3951.6279 5992.6094)" class="st3"><tspan x="0" y="0" class="st0 st5">TROUBLESHOOTING</tspan><tspan x="43.6" y="26.4" class="st0 st5">REQUIRED</tspan></text>
+</g>
+<rect id="E5_-_81A8_-_TG_Witness_Test_Passed" x="3046.2" y="6355.6" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81A8_-_KCFD_Witness_Test_Passed" x="3266.9" y="6355.6" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81A8_-_Farringtong_Tested_with_KCFD" x="3488.7" y="6355.6" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81A8_-_MAM_Pre-tested" x="3709.4" y="6355.6" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81A8_-_Troubleshooting_Required" x="3931.6" y="6355.6" class="st2" width="220.7" height="262.3"/>
+<g>
+	<text transform="matrix(1 0 0 1 3074.5498 6475.2822)" class="st3"><tspan x="0" y="0" class="st0 st4">TG WITNESS</tspan><tspan x="46.6" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 3287.2629 6475.8008)" class="st3"><tspan x="0" y="0" class="st0 st4">KCFD WITNESS</tspan><tspan x="61.7" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 3517.3599 6475.8008)" class="st3"><tspan x="0" y="0" class="st0 st4">FARRINGTON</tspan><tspan x="-21.5" y="36" class="st0 st4">TESTED W/ KCFD</tspan></text>
+	<text transform="matrix(1 0 0 1 3786.7427 6475.2827)" class="st3"><tspan x="0" y="0" class="st0 st4">MAM</tspan><tspan x="-38.9" y="36" class="st0 st4">PRE-TESTED</tspan></text>
+	<text transform="matrix(1 0 0 1 3951.6279 6478.6094)" class="st3"><tspan x="0" y="0" class="st0 st5">TROUBLESHOOTING</tspan><tspan x="43.6" y="26.4" class="st0 st5">REQUIRED</tspan></text>
+</g>
+<rect id="E5_-_81A9_-_TG_Witness_Test_Passed" x="3046.2" y="7342.4" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81A9_-_KCFD_Witness_Test_Passed" x="3266.9" y="7342.4" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81A9_-_Farringtong_Tested_with_KCFD" x="3488.7" y="7342.4" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81A9_-_MAM_Pre-tested" x="3709.4" y="7342.4" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81A9_-_Troubleshooting_Required" x="3931.6" y="7342.4" class="st2" width="220.7" height="262.3"/>
+<g>
+	<text transform="matrix(1 0 0 1 3074.5498 7462.082)" class="st3"><tspan x="0" y="0" class="st0 st4">TG WITNESS</tspan><tspan x="46.6" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 3287.2629 7462.6006)" class="st3"><tspan x="0" y="0" class="st0 st4">KCFD WITNESS</tspan><tspan x="61.7" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 3517.3599 7462.6006)" class="st3"><tspan x="0" y="0" class="st0 st4">FARRINGTON</tspan><tspan x="-21.5" y="36" class="st0 st4">TESTED W/ KCFD</tspan></text>
+	<text transform="matrix(1 0 0 1 3786.7427 7462.0825)" class="st3"><tspan x="0" y="0" class="st0 st4">MAM</tspan><tspan x="-38.9" y="36" class="st0 st4">PRE-TESTED</tspan></text>
+	<text transform="matrix(1 0 0 1 3951.6279 7465.4092)" class="st3"><tspan x="0" y="0" class="st0 st5">TROUBLESHOOTING</tspan><tspan x="43.6" y="26.4" class="st0 st5">REQUIRED</tspan></text>
+</g>
+<rect id="E5_-_81B2_-_TG_Witness_Test_Passed" x="42.1" y="1508.3" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81B2_-_KCFD_Witness_Test_Passed" x="262.8" y="1508.3" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81B2_-_Farringtong_Tested_with_KCFD" x="484.6" y="1508.3" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81B2_-_MAM_Pre-tested" x="705.3" y="1508.3" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81B2_-_Troubleshooting_Required" x="927.5" y="1508.3" class="st2" width="220.7" height="262.3"/>
+<g>
+	<text transform="matrix(1 0 0 1 70.4554 1627.9824)" class="st3"><tspan x="0" y="0" class="st0 st4">TG WITNESS</tspan><tspan x="46.6" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 283.1687 1628.5007)" class="st3"><tspan x="0" y="0" class="st0 st4">KCFD WITNESS</tspan><tspan x="61.7" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 513.2656 1628.501)" class="st3"><tspan x="0" y="0" class="st0 st4">FARRINGTON</tspan><tspan x="-21.5" y="36" class="st0 st4">TESTED W/ KCFD</tspan></text>
+	<text transform="matrix(1 0 0 1 782.6484 1627.9829)" class="st3"><tspan x="0" y="0" class="st0 st4">MAM</tspan><tspan x="-38.9" y="36" class="st0 st4">PRE-TESTED</tspan></text>
+	<text transform="matrix(1 0 0 1 947.5336 1631.3093)" class="st3"><tspan x="0" y="0" class="st0 st5">TROUBLESHOOTING</tspan><tspan x="43.6" y="26.4" class="st0 st5">REQUIRED</tspan></text>
+</g>
+<rect id="E5_-_81B3_-_TG_Witness_Test_Passed" x="42.1" y="2495.3" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81B3_-_KCFD_Witness_Test_Passed" x="262.8" y="2495.3" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81B3_-_Farringtong_Tested_with_KCFD" x="484.6" y="2495.3" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81B3_-_MAM_Pre-tested" x="705.3" y="2495.3" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81B3_-_Troubleshooting_Required" x="927.5" y="2495.3" class="st2" width="220.7" height="262.3"/>
+<g>
+	<text transform="matrix(1 0 0 1 70.4554 2614.9824)" class="st3"><tspan x="0" y="0" class="st0 st4">TG WITNESS</tspan><tspan x="46.6" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 283.1687 2615.5007)" class="st3"><tspan x="0" y="0" class="st0 st4">KCFD WITNESS</tspan><tspan x="61.7" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 513.2656 2615.501)" class="st3"><tspan x="0" y="0" class="st0 st4">FARRINGTON</tspan><tspan x="-21.5" y="36" class="st0 st4">TESTED W/ KCFD</tspan></text>
+	<text transform="matrix(1 0 0 1 782.6484 2614.9829)" class="st3"><tspan x="0" y="0" class="st0 st4">MAM</tspan><tspan x="-38.9" y="36" class="st0 st4">PRE-TESTED</tspan></text>
+	<text transform="matrix(1 0 0 1 947.5336 2618.3093)" class="st3"><tspan x="0" y="0" class="st0 st5">TROUBLESHOOTING</tspan><tspan x="43.6" y="26.4" class="st0 st5">REQUIRED</tspan></text>
+</g>
+<rect id="E5_-_81B4_-_TG_Witness_Test_Passed" x="42.1" y="2981.3" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81B4_-_KCFD_Witness_Test_Passed" x="262.8" y="2981.3" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81B4_-_Farringtong_Tested_with_KCFD" x="484.6" y="2981.3" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81B4_-_MAM_Pre-tested" x="705.3" y="2981.3" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81B4_-_Troubleshooting_Required" x="927.5" y="2981.3" class="st2" width="220.7" height="262.3"/>
+<g>
+	<text transform="matrix(1 0 0 1 70.4554 3100.9824)" class="st3"><tspan x="0" y="0" class="st0 st4">TG WITNESS</tspan><tspan x="46.6" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 283.1687 3101.5007)" class="st3"><tspan x="0" y="0" class="st0 st4">KCFD WITNESS</tspan><tspan x="61.7" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 513.2656 3101.501)" class="st3"><tspan x="0" y="0" class="st0 st4">FARRINGTON</tspan><tspan x="-21.5" y="36" class="st0 st4">TESTED W/ KCFD</tspan></text>
+	<text transform="matrix(1 0 0 1 782.6484 3100.9829)" class="st3"><tspan x="0" y="0" class="st0 st4">MAM</tspan><tspan x="-38.9" y="36" class="st0 st4">PRE-TESTED</tspan></text>
+	<text transform="matrix(1 0 0 1 947.5336 3104.3093)" class="st3"><tspan x="0" y="0" class="st0 st5">TROUBLESHOOTING</tspan><tspan x="43.6" y="26.4" class="st0 st5">REQUIRED</tspan></text>
+</g>
+<rect id="E5_-_81B5_-_TG_Witness_Test_Passed" x="42.1" y="3967.1" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81B5_-_KCFD_Witness_Test_Passed" x="262.8" y="3967.1" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81B5_-_Farringtong_Tested_with_KCFD" x="484.6" y="3967.1" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81B5_-_MAM_Pre-tested" x="705.3" y="3967.1" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81B5_-_Troubleshooting_Required" x="927.5" y="3967.1" class="st2" width="220.7" height="262.3"/>
+<g>
+	<text transform="matrix(1 0 0 1 70.4554 4086.7825)" class="st3"><tspan x="0" y="0" class="st0 st4">TG WITNESS</tspan><tspan x="46.6" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 283.1687 4087.3008)" class="st3"><tspan x="0" y="0" class="st0 st4">KCFD WITNESS</tspan><tspan x="61.7" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 513.2656 4087.301)" class="st3"><tspan x="0" y="0" class="st0 st4">FARRINGTON</tspan><tspan x="-21.5" y="36" class="st0 st4">TESTED W/ KCFD</tspan></text>
+	<text transform="matrix(1 0 0 1 782.6484 4086.783)" class="st3"><tspan x="0" y="0" class="st0 st4">MAM</tspan><tspan x="-38.9" y="36" class="st0 st4">PRE-TESTED</tspan></text>
+	<text transform="matrix(1 0 0 1 947.5336 4090.1094)" class="st3"><tspan x="0" y="0" class="st0 st5">TROUBLESHOOTING</tspan><tspan x="43.6" y="26.4" class="st0 st5">REQUIRED</tspan></text>
+</g>
+<rect id="E5_-_81B6_-_TG_Witness_Test_Passed" x="42.1" y="4881.7" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81B6_-_KCFD_Witness_Test_Passed" x="262.8" y="4881.7" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81B6_-_Farringtong_Tested_with_KCFD" x="484.6" y="4881.7" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81B6_-_MAM_Pre-tested" x="705.3" y="4881.7" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81B6_-_Troubleshooting_Required" x="927.5" y="4881.7" class="st2" width="220.7" height="262.3"/>
+<g>
+	<text transform="matrix(1 0 0 1 70.4554 5001.3823)" class="st3"><tspan x="0" y="0" class="st0 st4">TG WITNESS</tspan><tspan x="46.6" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 283.1687 5001.9009)" class="st3"><tspan x="0" y="0" class="st0 st4">KCFD WITNESS</tspan><tspan x="61.7" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 513.2656 5001.9009)" class="st3"><tspan x="0" y="0" class="st0 st4">FARRINGTON</tspan><tspan x="-21.5" y="36" class="st0 st4">TESTED W/ KCFD</tspan></text>
+	<text transform="matrix(1 0 0 1 782.6484 5001.3828)" class="st3"><tspan x="0" y="0" class="st0 st4">MAM</tspan><tspan x="-38.9" y="36" class="st0 st4">PRE-TESTED</tspan></text>
+	<text transform="matrix(1 0 0 1 947.5336 5004.7095)" class="st3"><tspan x="0" y="0" class="st0 st5">TROUBLESHOOTING</tspan><tspan x="43.6" y="26.4" class="st0 st5">REQUIRED</tspan></text>
+</g>
+<rect id="E5_-_81B7_-_TG_Witness_Test_Passed" x="42.1" y="5869.6" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81B7_-_KCFD_Witness_Test_Passed" x="262.8" y="5869.6" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81B7_-_Farringtong_Tested_with_KCFD" x="484.6" y="5869.6" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81B7_-_MAM_Pre-tested" x="705.3" y="5869.6" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81B7_-_Troubleshooting_Required" x="927.5" y="5869.6" class="st2" width="220.7" height="262.3"/>
+<g>
+	<text transform="matrix(1 0 0 1 70.4554 5989.2822)" class="st3"><tspan x="0" y="0" class="st0 st4">TG WITNESS</tspan><tspan x="46.6" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 283.1687 5989.8008)" class="st3"><tspan x="0" y="0" class="st0 st4">KCFD WITNESS</tspan><tspan x="61.7" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 513.2656 5989.8008)" class="st3"><tspan x="0" y="0" class="st0 st4">FARRINGTON</tspan><tspan x="-21.5" y="36" class="st0 st4">TESTED W/ KCFD</tspan></text>
+	<text transform="matrix(1 0 0 1 782.6484 5989.2827)" class="st3"><tspan x="0" y="0" class="st0 st4">MAM</tspan><tspan x="-38.9" y="36" class="st0 st4">PRE-TESTED</tspan></text>
+	<text transform="matrix(1 0 0 1 947.5336 5992.6094)" class="st3"><tspan x="0" y="0" class="st0 st5">TROUBLESHOOTING</tspan><tspan x="43.6" y="26.4" class="st0 st5">REQUIRED</tspan></text>
+</g>
+<rect id="E5_-_81B8_-_TG_Witness_Test_Passed" x="42.1" y="6355.6" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81B8_-_KCFD_Witness_Test_Passed" x="262.8" y="6355.6" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81B8_-_Farringtong_Tested_with_KCFD" x="484.6" y="6355.6" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81B8_-_MAM_Pre-tested" x="705.3" y="6355.6" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81B8_-_Troubleshooting_Required" x="927.5" y="6355.6" class="st2" width="220.7" height="262.3"/>
+<g>
+	<text transform="matrix(1 0 0 1 70.4554 6475.2822)" class="st3"><tspan x="0" y="0" class="st0 st4">TG WITNESS</tspan><tspan x="46.6" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 283.1687 6475.8008)" class="st3"><tspan x="0" y="0" class="st0 st4">KCFD WITNESS</tspan><tspan x="61.7" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 513.2656 6475.8008)" class="st3"><tspan x="0" y="0" class="st0 st4">FARRINGTON</tspan><tspan x="-21.5" y="36" class="st0 st4">TESTED W/ KCFD</tspan></text>
+	<text transform="matrix(1 0 0 1 782.6484 6475.2827)" class="st3"><tspan x="0" y="0" class="st0 st4">MAM</tspan><tspan x="-38.9" y="36" class="st0 st4">PRE-TESTED</tspan></text>
+	<text transform="matrix(1 0 0 1 947.5336 6478.6094)" class="st3"><tspan x="0" y="0" class="st0 st5">TROUBLESHOOTING</tspan><tspan x="43.6" y="26.4" class="st0 st5">REQUIRED</tspan></text>
+</g>
+<rect id="E5_-_81B9_-_TG_Witness_Test_Passed" x="42.1" y="7342.4" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81B9_-_KCFD_Witness_Test_Passed" x="262.8" y="7342.4" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81B9_-_Farringtong_Tested_with_KCFD" x="484.6" y="7342.4" class="st2" width="220.7" height="262.3"/>
+<rect id="E5_-_81B9_-_MAM_Pre-tested" x="705.3" y="7342.4" class="st2" width="221.9" height="262.3"/>
+<rect id="E5_-_81B9_-_Troubleshooting_Required" x="927.5" y="7342.4" class="st2" width="220.7" height="262.3"/>
+<g>
+	<text transform="matrix(1 0 0 1 70.4554 7462.082)" class="st3"><tspan x="0" y="0" class="st0 st4">TG WITNESS</tspan><tspan x="46.6" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 283.1687 7462.6006)" class="st3"><tspan x="0" y="0" class="st0 st4">KCFD WITNESS</tspan><tspan x="61.7" y="36" class="st0 st4">TEST</tspan></text>
+	<text transform="matrix(1 0 0 1 513.2656 7462.6006)" class="st3"><tspan x="0" y="0" class="st0 st4">FARRINGTON</tspan><tspan x="-21.5" y="36" class="st0 st4">TESTED W/ KCFD</tspan></text>
+	<text transform="matrix(1 0 0 1 782.6484 7462.0825)" class="st3"><tspan x="0" y="0" class="st0 st4">MAM</tspan><tspan x="-38.9" y="36" class="st0 st4">PRE-TESTED</tspan></text>
+	<text transform="matrix(1 0 0 1 947.5336 7465.4092)" class="st3"><tspan x="0" y="0" class="st0 st5">TROUBLESHOOTING</tspan><tspan x="43.6" y="26.4" class="st0 st5">REQUIRED</tspan></text>
+</g>
+</svg>
